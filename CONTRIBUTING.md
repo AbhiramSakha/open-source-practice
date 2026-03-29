@@ -13,5 +13,7 @@ agree to abide by the [Code Of Conduct](https://github.com/EddieHubCommunity/.gi
 6. [Push](https://help.github.com/articles/pushing-to-a-remote/) your changes to your forked version
 7. Go to the original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
-## DONE 🥳
+## Contributors
 - [AbhiramSakha](https://github.com/AbhiramSakha)
+
+## DONE 🥳
